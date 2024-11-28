@@ -1,0 +1,486 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Api\\Prover.Entrevista.Core.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Api\\Prover.Entrevista.Core.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Api\\Prover.Entrevista.Core.Api.csproj",
+        "projectName": "Prover.Entrevista.Core.Api",
+        "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Api\\Prover.Entrevista.Core.Api.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj"
+              },
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj"
+              },
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.DependencyInjections\\Prover.Entrevista.Core.DependencyInjections.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.DependencyInjections\\Prover.Entrevista.Core.DependencyInjections.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "DateOnlyTimeOnly.AspNet": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj",
+        "projectName": "Prover.Entrevista.Core.Application",
+        "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj"
+              },
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\Prover.Entrevista.Core.Domain.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\Prover.Entrevista.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj",
+        "projectName": "Prover.Entrevista.Core.Common",
+        "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.DependencyInjections\\Prover.Entrevista.Core.DependencyInjections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.DependencyInjections\\Prover.Entrevista.Core.DependencyInjections.csproj",
+        "projectName": "Prover.Entrevista.Core.DependencyInjections",
+        "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.DependencyInjections\\Prover.Entrevista.Core.DependencyInjections.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.DependencyInjections\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj"
+              },
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Infrastructure\\Prover.Entrevista.Core.Infrastructure.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Infrastructure\\Prover.Entrevista.Core.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\Prover.Entrevista.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\Prover.Entrevista.Core.Domain.csproj",
+        "projectName": "Prover.Entrevista.Core.Domain",
+        "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\Prover.Entrevista.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Common\\Prover.Entrevista.Core.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Infrastructure\\Prover.Entrevista.Core.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Infrastructure\\Prover.Entrevista.Core.Infrastructure.csproj",
+        "projectName": "Prover.Entrevista.Core.Infrastructure",
+        "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Infrastructure\\Prover.Entrevista.Core.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+        "outputPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Application\\Prover.Entrevista.Core.Application.csproj"
+              },
+              "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\Prover.Entrevista.Core.Domain.csproj": {
+                "projectPath": "D:\\_Projetos\\Entrevista\\Prover\\src\\Prover.Entrevista.Core\\Prover.Entrevista.Core.Domain\\Prover.Entrevista.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Dapper.SqlBuilder": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "DapperExtensions": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Dommel": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\bin\Debug\net7.0\Prover.Entrevista.Core.Application.deps.json
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\bin\Debug\net7.0\Prover.Entrevista.Core.Application.dll
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\bin\Debug\net7.0\Prover.Entrevista.Core.Application.pdb
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\bin\Debug\net7.0\Prover.Entrevista.Core.Common.dll
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\bin\Debug\net7.0\Prover.Entrevista.Core.Domain.dll
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\bin\Debug\net7.0\Prover.Entrevista.Core.Common.pdb
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\bin\Debug\net7.0\Prover.Entrevista.Core.Domain.pdb
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.csproj.AssemblyReference.cache
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.AssemblyInfoInputs.cache
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.AssemblyInfo.cs
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.csproj.CoreCompileInputs.cache
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.csproj.CopyComplete
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.dll
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\refint\Prover.Entrevista.Core.Application.dll
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\Prover.Entrevista.Core.Application.pdb
+D:\_Projetos\Entrevista\Prover\src\Prover.Entrevista.Core\Prover.Entrevista.Core.Application\obj\Debug\net7.0\ref\Prover.Entrevista.Core.Application.dll
