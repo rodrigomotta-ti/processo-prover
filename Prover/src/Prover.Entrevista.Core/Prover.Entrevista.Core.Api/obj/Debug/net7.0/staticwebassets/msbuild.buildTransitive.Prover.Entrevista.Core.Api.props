@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Prover.Entrevista.Core.Api.props" />
-</Project>
